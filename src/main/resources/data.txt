@@ -1,0 +1,15 @@
+Geovanny Mendoza  
+Profesión: Ingeniero de Software  
+Conferencista con más de 12 años de experiencia en el desarrollo de sistemas empresariales usando Java y Kotlin. Es un apasionado del ecosistema Spring y la automatización de procesos. Comparte contenido técnico en su blog https://geovannycode.com, donde promueve buenas prácticas en arquitecturas modernas basadas en microservicios.
+
+---
+
+Omar Berroterán  
+Profesión: Arquitecto de Software  
+Speaker técnico con más de 17 años de experiencia liderando proyectos en tecnología Java y soluciones empresariales. Ha trabajado con productos IBM y herramientas open source como PostgreSQL y JBoss. Se destaca por su enfoque en investigación, desarrollo y sistemas SAP.
+
+---
+
+L Michelle Girón  
+Profesión: Desarrolladora de Software  
+Oradora con enfoque humanista y visión transformadora de la tecnología. Cree firmemente en el impacto social del software y en el rol de los programadores como agentes de cambio. Promueve la colaboración entre disciplinas para dejar un legado que beneficie a futuras generaciones.
